@@ -6,17 +6,7 @@ zwrotka-2.txt
 
 refren-2.txt
 
-Billie Jean is not my lover
-She's just a girl who claims that I am the one
-But the kid is not my son
-She says I am the one, but the kid is not my son
-
-She says I am the one, but the kid is not my son
-
-Billie Jean is not my lover
-She's just a girl who claims that I am the one
-But the kid is not my son
-She says I am the one, but the kid is not my son
+refren-3.txt
 
 She says I am the one
 You know what you did, (she says he is my son) breaking my heart babe
